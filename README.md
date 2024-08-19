@@ -1,13 +1,13 @@
 # Project 2 README
 
-Student 1: Full Name 1 (123456789)
-Student 2: Full Name 2 (123456798)
+Student 1: Quanzhi Shao (919164480)
+Student 2: Yuhao Wang (919458549)
 
 ## Project Status
-This the current status of the project ...
+All the three circuits are work successfully.
 
 ## Known Issues
-The project fails to function properly in ...
+There are currently no issues. 
 
 ## References
 * [Build an XOR gate from AND/NOT](https://electronics.stackexchange.com/questions/487529/build-an-xor-gate-from-and-not)
